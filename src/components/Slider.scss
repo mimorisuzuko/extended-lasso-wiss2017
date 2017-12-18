@@ -1,0 +1,14 @@
+.base {
+	display: inline-block;
+
+	span {
+		margin-left: 5px;
+	}
+
+	canvas {
+		vertical-align: middle;
+		display: inline-block;
+		border: 1px solid white;
+		cursor: pointer;
+	}
+}
